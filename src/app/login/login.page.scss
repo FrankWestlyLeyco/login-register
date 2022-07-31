@@ -4,6 +4,7 @@ ion-content.bg {
     h1{
         margin-left:15px;
         font-size: 1.6rem;
+        font-align: center;
     }
     p{
         margin-left:15px;
@@ -48,6 +49,14 @@ ion-content.bg {
         --background: #000;
         width: 100%;
         font-weight: bold;
+     }
+    .signup-button{
+        --background: #000;
+        width: 100%;
+        font-weight: bold;-button{
+            --background: #000;
+            width: 100%;
+            font-weight: bold;
     }
     p{
         margin-top: 15px;
@@ -55,6 +64,6 @@ ion-content.bg {
         color:#000;
     }
 
+    }
 
-
-}
+    }
